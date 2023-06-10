@@ -1,0 +1,11 @@
+api key: c3751c362278f9c0375751a5a493c840
+web link: https://netflix-clone-d9f59.web.app/
+
+for configuration -
+
+1.firebase login
+2.firebase init
+
+for deployement
+1.npm run build
+2.firebase deploy
