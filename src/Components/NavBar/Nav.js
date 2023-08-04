@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './Nav.css';
-import logo from './what-to-watch.png';
+import logo from '../Images/what-to-watch.png';
 function Nav() {
 
     const [show, handleShow] = useState(false);
